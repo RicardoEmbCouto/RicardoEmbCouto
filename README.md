@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Olá, eu sou o Ricardo Embiruçu 👋
 
 Sou um desenvolvedor e pesquisador de IA apaixonado por resolver problemas complexos e por utilizar a tecnologia para tornar o mercado financeiro mais acessível. Sou o fundador da **Couto Industries**, onde atualmente desenvolvo os seguintes projetos:
@@ -18,7 +16,7 @@ Sou um desenvolvedor e pesquisador de IA apaixonado por resolver problemas compl
     * Uma Inteligência Artificial de apoio estratégico que auxilia no gerenciamento de projetos, análise de dados e otimização de conteúdo.
 
 * **Mapa das Rendas (Canal no YouTube)**
-    * Um projeto de educação financeira focado em ensinar brasileiros a investir com segurança e sabedoria. [**Acesse o canal aqui!**](LINK_DO_SEU_CANAL)
+    * Um projeto de educação financeira focado em ensinar brasileiros a investir com segurança e sabedoria. [**Acesse o canal aqui!**](https://youtube.com/@mapadasrendas?si=ka7Yf_GyEn_X4iId)
 
 ### 📚 Minha Jornada de Aprendizado e Certificações
 
@@ -33,5 +31,4 @@ Atualmente estou focado na trilha de certificação **Microsoft Azure AI**:
 
 `Python` `IA & Machine Learning` `Azure` `Git` `SQL` `PySide6`
 
----
--->
+
