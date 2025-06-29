@@ -32,7 +32,7 @@ Atualmente estou focado na trilha de certificação **Microsoft Azure AI**:
 #### 🛡️ Trilha de Cibersegurança (Bug Bounty)
 - **Foco:** Hacking Ético e Identificação de Vulnerabilidades Web.
 - **Aprendizado em Andamento:**
-- [ ] Web Security Academy (PortSwigger)
+- [x] Web Security Academy (PortSwigger)
 - [ ] Prática em plataformas como HackerOne e Bugcrowd.
   
 - **Certificações Planejadas:**
