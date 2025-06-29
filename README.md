@@ -7,10 +7,10 @@ Sou um desenvolvedor e pesquisador de IA apaixonado por resolver problemas compl
 
 ### 🚀 Meus Projetos Principais
 
-* **Ferramenta de Quitação de Dívidas (Repositório Privado)**
-    * Uma aplicação desktop multiplataforma (Windows/Linux) para ajudar brasileiros a montar um plano estratégico para quitar suas dívidas.
-    * **Tecnologias:** Python, PySide6, SQLite.
-    * *Nota: O código-fonte deste projeto é proprietário para proteger a propriedade intelectual da Couto Industries.*
+* **Ferramenta de Quitação de Dívidas (Software em Desenvolvimento)**
+    * **Arquitetura:** Progressive Web App (PWA) multiplataforma (Desktop e Mobile).
+    * **Tecnologias:** Python, Flask (Backend), React, Tailwind CSS (Frontend), Firebase.
+    * *Nota: O código-fonte deste projeto é proprietário e mantido em um repositório privado.*
 
 * **JARVIS (Meu Assistente de IA)**
     * Uma Inteligência Artificial de apoio estratégico que auxilia no gerenciamento de projetos, análise de dados e otimização de conteúdo.
@@ -26,9 +26,22 @@ Atualmente estou focado na trilha de certificação **Microsoft Azure AI**:
 - [ ] **AI-102:** Azure AI Engineer Associate *(Status: Planejada)*
 - [ ] **AZ-204:** Azure Developer Associate *(Status: Planejada)*
 - [ ] **AZ-400:** Azure DevOps Engineer Expert *(Status: Planejada)*
+- [ ] **AWS Certified Machine Learning – Specialty**
+- [ ] **Google Professional ML Engineer**
+
+#### 🛡️ Trilha de Cibersegurança (Bug Bounty)
+- **Foco:** Hacking Ético e Identificação de Vulnerabilidades Web.
+- **Aprendizado em Andamento:**
+- [ ] Web Security Academy (PortSwigger)
+- [ ] Prática em plataformas como HackerOne e Bugcrowd.
+  
+- **Certificações Planejadas:**
+- [ ] CompTIA Security+
+- [ ] Certified Ethical Hacker (CEH)
+- [ ] Offensive Security Certified Professional (OSCP)
 
 ### 💻 Tecnologias e Ferramentas
 
-`Python` `IA & Machine Learning` `Azure` `Git` `SQL` `PySide6`
+`Python` `IA & Machine Learning` `React` `Flask` `Firebase` `Azure` `Git` `SQL` `Web Security` `Burp Suite`
 
-
+---
