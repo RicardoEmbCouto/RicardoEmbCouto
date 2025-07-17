@@ -12,7 +12,7 @@ Sou um desenvolvedor e pesquisador de IA apaixonado por resolver problemas compl
     * **Tecnologias:** Python, Flask (Backend), React, Tailwind CSS (Frontend), Firebase.
     * *Nota: O código-fonte deste projeto é proprietário e mantido em um repositório privado.*
 
-* **JARVIS (Meu Assistente de IA)**
+* **Cortex (Meu Assistente de IA)**
     * Uma Inteligência Artificial de apoio estratégico que auxilia no gerenciamento de projetos, análise de dados e otimização de conteúdo.
 
 * **Mapa das Rendas (Canal no YouTube)**
